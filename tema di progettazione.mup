@@ -1,10 +1,10 @@
 {
-  "title": "Progetto di Architettura Open Source       ",
+  "title": "Progetto di Architettura Open Source                                       ",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
     "5.5": {
-      "title": "perchè usarla: forma che si modifica in base al contributo del singolo individuo",
+      "title": "PERCHE: forma che si modifica in base al contributo del singolo individuo",
       "id": 2,
       "ideas": {
         "1": {
@@ -266,8 +266,8 @@
         }
       }
     },
-    "-10.5": {
-      "title": "dove utilizzarla: zone della città abbandonate",
+    "25.5": {
+      "title": "DOVE: zone della città abbandonate",
       "id": 3,
       "ideas": {
         "1": {
@@ -309,18 +309,28 @@
                           "id": 23,
                           "attr": {
                             "style": {
-                              "background": "#E0E0E0"
+                              "background": "#99ccff"
                             }
                           }
                         },
                         "2": {
                           "title": "BISOGNI:\n- Collegamento migliore Bovisa e Villapizzone\n- Piste ciclabili Bovisa e  Centro\n- Luoghi di studio aperti a studenti e cittadinanza\n-  Luoghi per concerti\n- Potenziamento biblioteca\n-  Riqualificazione edifici esisteti\n- Palestra a cielo aperto",
                           "id": 25,
-                          "ideas": {}
+                          "ideas": {},
+                          "attr": {
+                            "style": {
+                              "background": "#ffffff"
+                            }
+                          }
                         },
                         "3": {
                           "title": "COME AGIRE\n-         Studiare bonifiche in altre città europee (Utrecht)\n-         Collaborazione tra cittadini e studenti Polimi\n-         Incontrare Politecnico, Amministrazione più altri privati per un quadro completo interessi\n-         Fare porta a porta per coinvolgere abitanti\n-         Raccolta firme",
-                          "id": 27
+                          "id": 27,
+                          "attr": {
+                            "style": {
+                              "background": "#ffff00"
+                            }
+                          }
                         }
                       }
                     }
@@ -352,7 +362,7 @@
         }
       }
     },
-    "15.5": {
+    "-10": {
       "title": "COME: utilizzando strutture temporanee",
       "id": 5,
       "ideas": {
